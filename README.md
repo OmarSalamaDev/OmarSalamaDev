@@ -1,11 +1,7 @@
-# About Me:
-
-<h1>Full-Stack Engineer</h1>
+# Full-Stack Engineer:
 </br>
 Yes AI will replace me, so let's have some fun!
 </br>
-
-
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-salama-0720b22a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar550205@gmail.com) 
