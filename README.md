@@ -1,4 +1,4 @@
-# Full-Stack Engineer:
+# A Full-Stack Engineer
 </br>
 Yes AI will replace me, so let's have some fun!
 </br>
