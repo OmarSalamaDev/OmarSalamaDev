@@ -1,6 +1,7 @@
 # About Me:
 </br>
-<b>Full-Stack Engineer<b>
+<b>Full-Stack Engineer</b>
+</br>
 Yes AI will replace me, so let's have some fun!
 </br>
 
