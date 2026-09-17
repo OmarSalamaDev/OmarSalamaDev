@@ -1,5 +1,9 @@
 # About Me:
-</br><b>Full-Stack Engineer<b></br>
+</br>
+<b>Full-Stack Engineer<b>
+Yes AI will replace me, so let's have some fun!
+</br>
+
 
 
 # Socials:
